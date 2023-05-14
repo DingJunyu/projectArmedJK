@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UnrealProject/ProjectAWayTooFar/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/MainGameLevel_TestZone.umap",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/MainGameLevel_TestZone_BuiltData.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_2E51D937.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_60045AE1.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_6254BADB.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_7757BFDA.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_815126AD.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_B568588F.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_B7887FF1.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Boolean_E4E98955.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_12D526D7.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_5C23E1C0.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_717E862E.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_B0169C55.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_C27943EC.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_CBC71F3D.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_CutPart_84529C11.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_DF6D0EF4.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_E3E6AFA5.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Box_FC4DC8C7.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Rectangle_3D50BCC0.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/Levels/_GENERATED/yahag/Rectangle_574DACB7.uasset",
+				"F:/UnrealProject/ProjectAWayTooFar/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
